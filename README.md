@@ -1,6 +1,8 @@
 # pizza-planet
 
-> Mi primer Vue
+> My first Vue
+
+![pizza planet](https://user-images.githubusercontent.com/37103088/41061792-16a00f3a-69d4-11e8-852f-38c42ca609c0.png)
 
 ## Build Setup
 
